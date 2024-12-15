@@ -1,0 +1,6 @@
+@Liinkz.Chat.Server_HostAddress = http://localhost:5062
+
+GET {{Liinkz.Chat.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
